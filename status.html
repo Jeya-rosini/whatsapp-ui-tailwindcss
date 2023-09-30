@@ -80,8 +80,16 @@
     </ul>
 
 <!--Status section-->
+
      <div class="bg-white p-3 relative max-h-1000">
-        <h4 class="font-semibold p-2">Status</h4>
+        <div class="flex items-center justify-between">
+            <h4 class="font-semibold p-2">Status</h4>
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256" class="fill-gray-600">
+                <path d="M112 60a16 16 0 1 1 16 16a16 16 0 0 1-16-16Zm16 52a16 16 0 1 0 16 16a16 16 0 0 0-16-16Zm0 68a16 16 0 1 0 16 16a16 16 0 0 0-16-16Z"/>
+            </svg>   
+        </div>
+        </div>
          <div class="px-3 py-3 flex items-center justify-between space-x-4">
             <img src="./assets/Images/my status.png" alt="my status" class="rounded-full w-14 h-14 border-2 p-1 border-gray-500 border-dashed">
             <div class="flex flex-1 items-center justify-between">
@@ -89,13 +97,10 @@
                     <h4 class="font-semibold">My status</h4>
                     <small class="text-gray-600">Today 09:50 pm</small>
                 </div>
-                <div>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 256 256" class="fill-emerald-800">
-                        <path d="M112 60a16 16 0 1 1 16 16a16 16 0 0 1-16-16Zm16 52a16 16 0 1 0 16 16a16 16 0 0 0-16-16Zm0 68a16 16 0 1 0 16 16a16 16 0 0 0-16-16Z"/>
-                    </svg>   
-                </div>
             </div>
          </div>
+
+    <!----recent updates----->
      
      <div class="text-sm p-1">
         <h4 class=" text-gray-600 font-medium">Recent updates</h4>
@@ -121,48 +126,72 @@
             </div>
         </div>
      </div>
+
+    <!----viewed updates------->
      
      <div class="text-sm p-1">
         <div class="flex items-center justify-between animate__animated animate__ShakeX">
-            <h4 class=" text-gray-600 font-medium p-3 hover:cursor-pointer">Viewed updates</h4>
+            <h4 class=" text-gray-600 font-medium hover:cursor-pointer">Viewed updates</h4>
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" class="fill-gray-600 w-6 h-6 m-3 hover:cursor-pointer">
                 <path d="m12 15l-4.243-4.242l1.415-1.414L12 12.172l2.828-2.828l1.415 1.414L12 15.001Z"/>
             </svg>
         </div>
         <hr class="h-px  bg-gray-200 border-0 dark:bg-gray-700">
-     </div>
-     
+    </div>
+
+
+   <!----Channels------>
+    <div class="p-1">
+        <div class="flex items-center justify-between">
+            <div>
+                <h4 class="font-semibold p-2">Channels</h4>
+            <small class="text-gray-500 p-1">
+                Stay updated on topics that matter to you. Find channels to follow below
+            </small>
+            </div>
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-gray-500">
+                <path d="M19 12.998h-6v6h-2v-6H5v-2h6v-6h2v6h6z"/>
+            </svg>   
+        </div>
+        </div>
+        <div class="p-2 flex items-center space-x-4">
+            <div class="relative border border-solid text-center p-2">
+                <img src="./assets/Images/Katrina-Kaif.jpg" alt="image" class="rounded-full m-5 w-20 h-20">
+                <h4 class="font-medium pb-2">Katrina Kaif</h4>
+                <button type="button" class="text-emerald-800 bg-emerald-200 hover:bg-emerald-400 focus:outline-none focus:ring-4 focus:ring-emerald-200 font-medium rounded-full text-sm px-3 py-2 text-center dark:bg-emerald-200 dark:hover:bg-emerald-400 dark:focus:ring-emerald-400">Find Channels</button>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="absolute bottom-24 right-6 fill-emerald-800">
+                    <path d="m8.6 22.5l-1.9-3.2l-3.6-.8l.35-3.7L1 12l2.45-2.8l-.35-3.7l3.6-.8l1.9-3.2L12 2.95l3.4-1.45l1.9 3.2l3.6.8l-.35 3.7L23 12l-2.45 2.8l.35 3.7l-3.6.8l-1.9 3.2l-3.4-1.45l-3.4 1.45Zm2.35-6.95L16.6 9.9l-1.4-1.45l-4.25 4.25l-2.15-2.1L7.4 12l3.55 3.55Z"/>
+                </svg>
+            </div>
+            <div class="relative border border-solid text-center p-2">
+                <img src="./assets/Images/Mark Zuckerberg.jpg" alt="image" class="rounded-full m-5 w-20 h-20">
+                <h4 class="font-medium pb-2">MArk Zuckerberg</h4>
+                <button type="button" class="text-emerald-800 bg-emerald-200 hover:bg-emerald-400 focus:outline-none focus:ring-4 focus:ring-emerald-200 font-medium rounded-full text-sm px-3 py-2 text-center dark:bg-emerald-200 dark:hover:bg-emerald-400 dark:focus:ring-emerald-400">Find Channels</button>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="absolute bottom-24 right-6 fill-emerald-800">
+                    <path d="m8.6 22.5l-1.9-3.2l-3.6-.8l.35-3.7L1 12l2.45-2.8l-.35-3.7l3.6-.8l1.9-3.2L12 2.95l3.4-1.45l1.9 3.2l3.6.8l-.35 3.7L23 12l-2.45 2.8l.35 3.7l-3.6.8l-1.9 3.2l-3.4-1.45l-3.4 1.45Zm2.35-6.95L16.6 9.9l-1.4-1.45l-4.25 4.25l-2.15-2.1L7.4 12l3.55 3.55Z"/>
+                </svg>
+            </div>
+            <div class="relative border border-solid text-center p-2">
+                <img src="./assets/Images/Virat Kohli.png" alt="image" class="rounded-full m-5 w-20 h-20">
+                <h4 class="font-medium pb-2">Virat Kohli</h4>
+                <button type="button" class="text-emerald-800 bg-emerald-200 hover:bg-emerald-400 focus:outline-none focus:ring-4 focus:ring-emerald-200 font-medium rounded-full text-sm px-3 py-2 text-center dark:bg-emerald-200 dark:hover:bg-emerald-400 dark:focus:ring-emerald-400">Find Channels</button>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="absolute bottom-24 right-6 fill-emerald-800">
+                    <path d="m8.6 22.5l-1.9-3.2l-3.6-.8l.35-3.7L1 12l2.45-2.8l-.35-3.7l3.6-.8l1.9-3.2L12 2.95l3.4-1.45l1.9 3.2l3.6.8l-.35 3.7L23 12l-2.45 2.8l.35 3.7l-3.6.8l-1.9 3.2l-3.4-1.45l-3.4 1.45Zm2.35-6.95L16.6 9.9l-1.4-1.45l-4.25 4.25l-2.15-2.1L7.4 12l3.55 3.55Z"/>
+                </svg>
+            </div>
+        </div>
+
+    <!----floating Icons-->        
 
      <div class=" bg-emerald-800 w-8 h-8 flex items-center justify-center rounded-lg text-white absolute bottom-5 right-5 shadow-gray-300 shadow-xl hover:bg-emerald-700 hover:cursor-pointer">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current">
             <path  d="M12 17.5q1.875 0 3.188-1.313T16.5 13q0-1.875-1.313-3.188T12 8.5q-1.875 0-3.188 1.313T7.5 13q0 1.875 1.313 3.188T12 17.5Zm0-2q-1.05 0-1.775-.725T9.5 13q0-1.05.725-1.775T12 10.5q1.05 0 1.775.725T14.5 13q0 1.05-.725 1.775T12 15.5ZM4 21q-.825 0-1.413-.588T2 19V7q0-.825.588-1.413T4 5h3.15L9 3h6l1.85 2H20q.825 0 1.413.588T22 7v12q0 .825-.588 1.413T20 21H4Z"/>
         </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" class="fill-white bg-emerald-400 hover:bg-emerald-500 rounded-lg p-1 absolute bottom-10 right-1">
+            <path d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM20.71 5.63l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83l3.75 3.75l1.83-1.83a.996.996 0 0 0 0-1.41z"/>
+        </svg>
     </div>
-
-    <div class="text-sm p-1">
-        <h4 class=" text-gray-600 font-medium">Recent updates</h4>
-        <div class="flex items-center space-x-4 my-2 mx-2 hover:cursor-pointer hover:bg-slate-100">
-            <img src="./assets/Images/Vicky VJ status.jpg" alt="vicky VJ status" class="rounded-full w-12 h-12 p-0.5 border border-2 border-emerald-800">
-            <div>
-                <h4 class="font-semibold">Vicky VJ</h4>
-                <small class="text-gray-600">06:00 PM</small>
-            </div>
-        </div>
-        <div class="flex items-center space-x-4 my-2 mx-2 hover:cursor-pointer hover:bg-slate-100">
-            <img src="./assets/Images/Bheem Boy.jpg" alt="Bheem boy status" class="rounded-full w-12 h-12 p-0.5 border border-2 border-emerald-800">
-            <div>
-                <h4 class="font-semibold">Bheem boy</h4>
-                <small class="text-gray-600">03:40 PM</small>
-            </div>
-        </div>
-        <div class="flex items-center space-x-4 my-2 mx-2 hover:cursor-pointer hover:bg-slate-100">
-            <img src="./assets/Images/Anandhi status.jpg" alt="Anandhi status" class="rounded-full w-12 h-12 p-0.5 border border-2 border-emerald-800">
-            <div>
-                <h4 class="font-semibold">Anandhi</h4>
-                <small class="text-gray-600">09:00 AM</small>
-            </div>
-        </div>
-     </div>
 </div>
 
     </section>
