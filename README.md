@@ -17,6 +17,7 @@ Tech Used: HTML5 , CSS3 and Tailwind CSS
 
 ## Screenshots
 
+![Whatsapp UI](https://github.com/Jeya-rosini/whatsapp-ui-tailwindcss/assets/143939511/adbcbab4-4c18-47fe-80af-d6ca5b8305a4)
 
 Thank you for visiting
 
