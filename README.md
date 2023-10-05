@@ -1,7 +1,7 @@
-# Jeya Rosini Let's UI
+# Jeya Rosini Let's Chat UI
 We can connect throught Let's Chat. Responsive and innovative UI
 
-For Live:
+For Live: https://jeya-rosini.github.io/whatsapp-ui-tailwindcss/
 
 Author: Jeya Rosini.H
 
