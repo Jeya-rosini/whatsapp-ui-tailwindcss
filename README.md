@@ -62,8 +62,24 @@ The UI functions as a prespective of how the messging or interactive applicaton 
 
 Step 1: Using the live link, you can have a Lets' Chat UI
 Step 2: In the UI, you can have a GitHub source code
-Step 3: You can have a pull request, through that you can install the code in your desktop coding software
+Step 3: You can have a pull request in the source code, through that you can install the code in your desktop coding software by choosing different branches
 Step 4: Through that you can do changes in that code by adding or deleting any features into it
+
+## Usage
+
+This project can be used as example of chat UI representation.
+
+## Contribution
+
+Contribution can be done using: https://github.com/Jeya-rosini/whatsapp-ui-tailwindcss/
+
+Any upgrading or editing can be done using the link through the pull rewquest it can be edited
+
+## License
+
+The project is distributed using MIT License
+
+
 
 
 
