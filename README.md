@@ -32,11 +32,29 @@ The Lets' Chat UI is more like WhatsApp. But have a unique features in creative 
 
 ## Demo
 
-Live Link:
+Live Link: https://jeya-rosini.github.io/whatsapp-ui-tailwindcss/
 
 ### Screenshots
 
 ![Whatsapp UI](https://github.com/Jeya-rosini/whatsapp-ui-tailwindcss/assets/143939511/adbcbab4-4c18-47fe-80af-d6ca5b8305a4)
+
+## Internship
+
+This internship is provided by CyberDude Networks Pvt.LTd. as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by Mr. Anbuselvan Rocky. For more information, you can contact CyberDude Networks here.
+
+## Technologies Used
+
+1, HTML 5
+
+2, CSS 3
+
+3, TailwindCSS
+
+4, For icones: Icones.js.org
+
+5, For reference: TailwindCSs Documentation
+
+## Features
 
 
 
