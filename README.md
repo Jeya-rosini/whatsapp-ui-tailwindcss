@@ -1,23 +1,42 @@
-# Jeya Rosini Let's Chat UI
-We can connect throught Let's Chat. Responsive and innovative UI
+### Lets' Chat
 
-For Live: https://jeya-rosini.github.io/whatsapp-ui-tailwindcss/
+Its a Chatbox UI resemblence of WhatsApp. The design is not yet responsive. But have major key features and designs are included. In this design, can able to navigate through pages without opeininga an another tab. Its all linked together for our convenience and look more alike.
 
-Author: Jeya Rosini.H
+## Table of Contents
 
-Tech Used: HTML5 , CSS3 and Tailwind CSS
+1, Project Title
 
-## Contents Include:
+2, Description
 
-1, License
+3, Demo
 
-2, README.md
+4, Internship
 
-3, Let's Chat
+5, Technologies Used
 
-## Screenshots
+6, Features
+
+7, Installation
+
+8, Usage
+
+9, Contributing
+
+10, License
+
+11, Acknowledgments
+
+## Description
+
+The Lets' Chat UI is more like WhatsApp. But have a unique features in creative way of presenting, usage of technology. This UI is not interactive but it gives the feel of interaction with hover effect and navigation through the pages. The purpose of this UI is to usage of the technology and skill
+
+## Demo
+
+Live Link:
+
+### Screenshots
 
 ![Whatsapp UI](https://github.com/Jeya-rosini/whatsapp-ui-tailwindcss/assets/143939511/adbcbab4-4c18-47fe-80af-d6ca5b8305a4)
 
-Thank you for visiting
+
 
