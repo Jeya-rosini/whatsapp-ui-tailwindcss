@@ -61,8 +61,11 @@ The UI functions as a prespective of how the messging or interactive applicaton 
 ## Installation
 
 Step 1: Using the live link, you can have a Lets' Chat UI
+
 Step 2: In the UI, you can have a GitHub source code
+
 Step 3: You can have a pull request in the source code, through that you can install the code in your desktop coding software by choosing different branches
+
 Step 4: Through that you can do changes in that code by adding or deleting any features into it
 
 ## Usage
