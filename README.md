@@ -56,5 +56,14 @@ This internship is provided by CyberDude Networks Pvt.LTd. as part of the 6-Mont
 
 ## Features
 
+The UI functions as a prespective of how the messging or interactive applicaton will be. This UI will give you a complete guide to it. You can enjoy the view and cool look of this apllication.
+
+## Installation
+
+Step 1: Using the live link, you can have a Lets' Chat UI
+Step 2: In the UI, you can have a GitHub source code
+Step 3: You can have a pull request, through that you can install the code in your desktop coding software
+Step 4: Through that you can do changes in that code by adding or deleting any features into it
+
 
 
